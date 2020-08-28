@@ -1,0 +1,1 @@
+This code is used to collect Taiwanese stock information.
